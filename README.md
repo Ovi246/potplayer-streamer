@@ -2,6 +2,8 @@
 
 A Chrome extension and native messaging host installer to launch PotPlayer from your browser.
 
+![Demo of PotPlayer Streamer](extension/assets/gif/demo_potplayer_streamer.gif)
+
 ## Features
 
 - Launch PotPlayer directly from Chrome via context menu or popup.
@@ -14,7 +16,7 @@ A Chrome extension and native messaging host installer to launch PotPlayer from 
 
 ### 1. Download
 
-- [Latest Release](https://github.com/YOUR_USERNAME/potplayer-streamer/releases/latest)
+- [Latest Release](https://github.com/Ovi246/potplayer-streamer/releases/tag/v1.0.0)
 
 ### 2. Install the Native Host
 

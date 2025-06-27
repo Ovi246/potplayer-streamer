@@ -82,7 +82,7 @@ function showError(message) {
   try {
     chrome.notifications.create({
       type: "basic",
-      iconUrl: "icons/icon16.png",
+      iconUrl: "assets/icons/icon16.png",
       title: "PotPlayer Error",
       message: message,
     });
