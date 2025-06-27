@@ -1,0 +1,7 @@
+{
+  "name": "com.potplayer.launcher",
+  "description": "PotPlayer Native Messaging Host",
+  "path": "INSTALL_PATH\\launch_potplayer.bat",
+  "type": "stdio",
+  "allowed_origins": ["chrome-extension://lplcmbmbkjficplpmamccpajgneaeeah/"]
+}
