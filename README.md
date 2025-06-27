@@ -24,11 +24,16 @@ A Chrome extension and native messaging host installer to launch PotPlayer from 
 2. Run `install.bat` as Administrator to register the native messaging host.
 3. To uninstall, run `uninstall.bat` as Administrator.
 
+![Install Host of PotPlayer Streamer](extension/assets/gif/demo_host_install.gif)
+
 ### 3. Install the Chrome Extension (Manual/Development)
 
 1. Open `chrome://extensions/` in Chrome.
 2. Enable "Developer mode" (top right).
 3. Click "Load unpacked" and select the `extension` folder.
+
+
+![Install Chrome Extension of PotPlayer Streamer](extension/assets/gif/demo_extension_install.gif)
 
 ---
 
