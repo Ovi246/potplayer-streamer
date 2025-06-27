@@ -1,6 +1,6 @@
 // Modern PotPlayer Opener Popup Script
 
-const INSTALLER_URL = "https://yourdomain.com/host-installer.zip"; // Update this to your actual installer URL
+const INSTALLER_URL = "https://github.com/Ovi246/potplayer-streamer/releases/tag/v1.0.0"; // Update this to your actual installer URL
 
 function renderInstallPrompt() {
   const content = document.getElementById("content");
